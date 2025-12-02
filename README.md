@@ -4,5 +4,5 @@
 
 <!-- 关于我 -->
 ## 🧑‍💻 About Me
-- 🌱 I’m currently learning **Java**
+- 🌱 这是我新创建的GitHub账号
 - 📫 How to reach me: **1446184339@qq.com**
